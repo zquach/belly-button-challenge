@@ -1,8 +1,8 @@
 # belly-button-challenge
-Module 14 Challenge
+You can access my app on this free GitHub Page: <a href="https://zquach.github.io/belly-button-challenge/">Zoey's Belly Button App</a>
 
 <h1>Background</h1>
-In this assignment, you will build an interactive dashboard to explore the <a href="https://robdunnlab.com/projects/belly-button-biodiversity/">Belly Button Biodiversity dataset</a> to an external site., which catalogs the microbes that colonize human navels.
+In this assignment, you will build an interactive dashboard to explore the <a href="https://robdunnlab.com/projects/belly-button-biodiversity/">Belly Button Biodiversity dataset</a>, which catalogs the microbes that colonize human navels.
 
 The dataset reveals that a small handful of microbial species (also called operational taxonomic units, or OTUs, in the study) were present in more than 70% of people, while the rest were relatively rare.
 
