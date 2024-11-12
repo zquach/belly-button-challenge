@@ -1,5 +1,5 @@
 # belly-button-challenge
-You can access my app on this free GitHub Page: <a href="https://zquach.github.io/belly-button-challenge/">Zoey's Belly Button App</a>
+You can access my app on this free GitHub Page: <a href="https://zquach.github.io/belly-button-challenge/">Belly Button App</a>
 
 <h1>Background</h1>
 In this assignment, you will build an interactive dashboard to explore the <a href="https://robdunnlab.com/projects/belly-button-biodiversity/">Belly Button Biodiversity dataset</a>, which catalogs the microbes that colonize human navels.
